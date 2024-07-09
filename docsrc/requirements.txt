@@ -3,3 +3,4 @@ myst-parser
 sphinx_material
 sphinx_copybutton
 commonmark
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
